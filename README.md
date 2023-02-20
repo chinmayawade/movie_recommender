@@ -32,17 +32,6 @@ The API service is for those of you interested in using our movie, TV show or ac
 * Airing today TV shows
 * Popular people
 
-<p>&nbsp;</p>
-## Importing Datasets ##
-### 1.  Movie Dataset###
-*****
-![Alt text](https://res.cloudinary.com/dntkxtebe/image/upload/q_1000/v1663917568/Screenshot_96_ba7mk1.png)
-<p>&nbsp;</p>
-### 2. Credits Dataset ###
-*****
-![Alt text](https://res.cloudinary.com/dntkxtebe/image/upload/q_1000000/v1663920667/Screenshot_97_adg9aa.png)
-<p>&nbsp;</p>
-
 
 ## Python Pickle Model | Go to [Python Pickle Documentation](https://docs.python.org/3/library/pickle.html).
 *************************************************************
