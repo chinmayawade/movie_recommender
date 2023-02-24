@@ -1,1 +1,13 @@
 # Movie Recommender System 
+##All about Recommender System
+A recommender system is an artificial intelligence (AI) algorithm or tool designed to suggest or recommend items, products, or services to users based on their preferences and behavior. The goal of a recommender system is to provide personalized and relevant recommendations that can help users discover new items they might be interested in.
+
+There are several types of recommender systems, including:
+
+**Content-based recommender systems:** These systems suggest items based on the features or attributes of items that users have previously interacted with or rated. For example, if a user has previously watched action movies, a content-based recommender system may suggest other action movies.
+
+**Collaborative filtering recommender systems:** These systems suggest items based on the behavior of other users who have similar preferences or behavior. Collaborative filtering can be either user-based or item-based. User-based collaborative filtering suggests items based on the preferences of other users who are similar to the current user. Item-based collaborative filtering suggests items that are similar to items that the user has previously interacted with.
+
+**Hybrid recommender systems:** These systems combine multiple approaches to provide more accurate and diverse recommendations.
+
+Recommender systems are used in various applications, such as e-commerce, music streaming, movie recommendation, and social media. They help improve the user experience by providing personalized recommendations, increasing user engagement, and promoting customer loyalty.
